@@ -1,2 +1,4 @@
-# Banco_de_Dados
-Tudo sobre a matéria de banco de dados do meu 3ºsemestre da faculdade
+## Banco de Dados 💻
+
+Um pouco das aulas que tive de Banco de Dados I, nesse meu 3º semestre da faculdade.
+
